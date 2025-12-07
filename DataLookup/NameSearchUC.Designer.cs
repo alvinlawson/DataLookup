@@ -56,9 +56,9 @@
             this.firstNamesLB.AutoSize = true;
             this.firstNamesLB.Location = new System.Drawing.Point(11, 76);
             this.firstNamesLB.Name = "firstNamesLB";
-            this.firstNamesLB.Size = new System.Drawing.Size(62, 13);
+            this.firstNamesLB.Size = new System.Drawing.Size(71, 13);
             this.firstNamesLB.TabIndex = 2;
-            this.firstNamesLB.Text = "First Names";
+            this.firstNamesLB.Text = "First Names 1";
             // 
             // surnameLabel
             // 
